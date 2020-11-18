@@ -1,0 +1,62 @@
+body {
+    font-family: "Gill Sans", sans-serif;
+}
+#main {
+    margin: 30px 10px;
+    padding: 15px;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.199);
+  }
+#img-div {
+    background: rgba(255, 255, 255, 0.425);
+    padding: 10px;
+    margin: 0;
+    width: auto;
+    text-align: center;
+  }
+#image {
+    border-width: 5px;  
+    border-radius: 15px;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+#title {
+    text-align: center;
+    font-size: 2em;
+}
+p {
+    text-align: center;
+}
+#img-caption {
+    margin: 10px 0 5px 0;
+}
+ul {
+    max-width: 450px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    font-size: 1.1em;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+h3 {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    font-size: 1.1em;
+    
+}
+h2 {
+    text-align: center;
+    font-size: 1.4em;
+}
+blockquote {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 1.3em;
+}
